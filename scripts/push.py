@@ -36,6 +36,8 @@ UA = "github-daily-pick/1.0"
 
 
 def _request(url: str, data: bytes | None, headers: dict, timeout: int = 20) -> tuple[bool, str]:
+    if not url.startswith(("http://", "https://")):
+        return False, f"推送地址不合法：{url!r}（检查对应的服务器地址配置）"
     req = urllib.request.Request(url, data=data, headers={"User-Agent": UA, **headers},
                                  method="POST" if data is not None else "GET")
     try:
@@ -64,7 +66,9 @@ def send_ntfy(title: str, title_ascii: str, text: str) -> tuple[bool, str]:
     topic = os.getenv("NTFY_TOPIC", "").strip()
     if not topic:
         return False, "未配置"
-    server = os.getenv("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+    # 注意：环境变量存在但为空时 getenv 的默认值不生效（GitHub Actions 里没配的
+    # secret 就是空字符串），所以统一写成 “取出来 → 去掉空白 → 空了再用默认值”
+    server = os.getenv("NTFY_SERVER", "").strip().rstrip("/") or "https://ntfy.sh"
     # ntfy 的 HTTP 头只能放 ASCII，所以标题用英文短标题，正文里照样有中文
     headers = {
         "Title": title_ascii,
@@ -81,7 +85,7 @@ def send_bark(title: str, title_ascii: str, text: str) -> tuple[bool, str]:
     key = os.getenv("BARK_KEY", "").strip()
     if not key:
         return False, "未配置"
-    server = os.getenv("BARK_SERVER", "https://api.day.app").rstrip("/")
+    server = os.getenv("BARK_SERVER", "").strip().rstrip("/") or "https://api.day.app"
     if key.startswith("http"):          # 直接粘贴了 App 里复制的整条地址，顺手拆开
         parsed = urllib.parse.urlparse(key)
         server = f"{parsed.scheme}://{parsed.netloc}"
@@ -93,7 +97,7 @@ def send_bark(title: str, title_ascii: str, text: str) -> tuple[bool, str]:
         "body": text,
         "group": "GitHub每日推荐",
         "url": "https://github.com/trending",
-        "level": os.getenv("BARK_LEVEL", "timeSensitive").strip() or "active",
+        "level": os.getenv("BARK_LEVEL", "").strip() or "timeSensitive",
     }
     ok, detail = _post_json(f"{server}/push", payload)
     if not ok and "device token" in detail:
