@@ -1,4 +1,17 @@
 {
-  "pushed": {},
-  "recent": []
+  "pushed": {
+    "mudler/LocalAI": "2026-09-19",
+    "img2threejs/img2threejs": "2026-09-19",
+    "makerspet/oomwoo": "2026-09-19"
+  },
+  "recent": [
+    {
+      "date": "2026-09-19",
+      "families": [
+        "AI",
+        "视觉创意",
+        "自建家庭"
+      ]
+    }
+  ]
 }
