@@ -1,0 +1,63 @@
+name: 每日 GitHub 3 选
+
+on:
+  schedule:
+    # cron 是 UTC 时间。下面这行 = 北京时间每天早上 09:00
+    # 想改成 8 点就写 "0 0 * * *"（UTC 00:00 = 北京 08:00）
+    - cron: "0 1 * * *"
+  workflow_dispatch:      # 也可以随时在网页上点一下手动跑一次
+
+permissions:
+  contents: write         # 需要写权限才能把去重记录提交回仓库
+
+concurrency:
+  group: daily-pick
+  cancel-in-progress: false
+
+jobs:
+  daily-pick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 挑 3 个项目并推送
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          BARK_KEY: ${{ secrets.BARK_KEY }}
+          BARK_SERVER: ${{ secrets.BARK_SERVER }}
+          BARK_LEVEL: ${{ secrets.BARK_LEVEL }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          TZ_OFFSET: "8"
+        run: python scripts/main.py
+
+      - name: 把去重记录提交回仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -m "chore: 更新推送记录 [skip ci]"
+            git push
+          fi
