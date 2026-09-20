@@ -2,7 +2,10 @@
   "pushed": {
     "mudler/LocalAI": "2026-09-19",
     "img2threejs/img2threejs": "2026-09-19",
-    "makerspet/oomwoo": "2026-09-19"
+    "makerspet/oomwoo": "2026-09-19",
+    "ayangweb/BongoCat": "2026-09-20",
+    "bilawalsidhu/gods-eye-view": "2026-09-20",
+    "hwdsl2/setup-ipsec-vpn": "2026-09-20"
   },
   "recent": [
     {
@@ -11,6 +14,14 @@
         "AI",
         "视觉创意",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "families": [
+        "桌面系统",
+        "视觉创意",
+        "网络隐私"
       ]
     }
   ]
