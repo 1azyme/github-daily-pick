@@ -5,7 +5,10 @@
     "makerspet/oomwoo": "2026-09-19",
     "ayangweb/BongoCat": "2026-09-20",
     "bilawalsidhu/gods-eye-view": "2026-09-20",
-    "hwdsl2/setup-ipsec-vpn": "2026-09-20"
+    "hwdsl2/setup-ipsec-vpn": "2026-09-20",
+    "herdrdev/herdr": "2026-09-21",
+    "rtk-ai/rtk": "2026-09-21",
+    "laurent22/joplin": "2026-09-21"
   },
   "recent": [
     {
@@ -22,6 +25,14 @@
         "桌面系统",
         "视觉创意",
         "网络隐私"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "families": [
+        "命令行",
+        "AI",
+        "效率工具"
       ]
     }
   ]
