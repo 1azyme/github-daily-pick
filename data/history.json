@@ -8,7 +8,10 @@
     "hwdsl2/setup-ipsec-vpn": "2026-09-20",
     "herdrdev/herdr": "2026-09-21",
     "rtk-ai/rtk": "2026-09-21",
-    "laurent22/joplin": "2026-09-21"
+    "laurent22/joplin": "2026-09-21",
+    "google/material-design-icons": "2026-09-22",
+    "gogs/gogs": "2026-09-22",
+    "imputnet/cobalt": "2026-09-22"
   },
   "recent": [
     {
@@ -33,6 +36,14 @@
         "命令行",
         "AI",
         "效率工具"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "families": [
+        "手机浏览器",
+        "自建家庭",
+        "影音图片"
       ]
     }
   ]
