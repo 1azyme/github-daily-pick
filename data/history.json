@@ -11,7 +11,10 @@
     "laurent22/joplin": "2026-09-21",
     "google/material-design-icons": "2026-09-22",
     "gogs/gogs": "2026-09-22",
-    "imputnet/cobalt": "2026-09-22"
+    "imputnet/cobalt": "2026-09-22",
+    "bytedance/deer-flow": "2026-09-23",
+    "nukeop/nuclear": "2026-09-23",
+    "TriliumNext/Trilium": "2026-09-23"
   },
   "recent": [
     {
@@ -44,6 +47,14 @@
         "手机浏览器",
         "自建家庭",
         "影音图片"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "families": [
+        "AI",
+        "桌面系统",
+        "效率工具"
       ]
     }
   ]
