@@ -14,7 +14,10 @@
     "imputnet/cobalt": "2026-09-22",
     "bytedance/deer-flow": "2026-09-23",
     "nukeop/nuclear": "2026-09-23",
-    "TriliumNext/Trilium": "2026-09-23"
+    "TriliumNext/Trilium": "2026-09-23",
+    "GraphiteEditor/Graphite": "2026-09-24",
+    "raysan5/raylib": "2026-09-24",
+    "pbakaus/impeccable": "2026-09-24"
   },
   "recent": [
     {
@@ -55,6 +58,14 @@
         "AI",
         "桌面系统",
         "效率工具"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "families": [
+        "视觉创意",
+        "自建家庭",
+        "其他"
       ]
     }
   ]
