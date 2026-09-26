@@ -20,17 +20,12 @@
     "pbakaus/impeccable": "2026-09-24",
     "FFmpeg/FFmpeg": "2026-09-25",
     "shadps4-emu/shadPS4": "2026-09-25",
-    "mvt-project/mvt": "2026-09-25"
+    "mvt-project/mvt": "2026-09-25",
+    "shy3130/tick-stock-panel": "2026-09-26",
+    "super-productivity/super-productivity": "2026-09-26",
+    "chubin/wttr.in": "2026-09-26"
   },
   "recent": [
-    {
-      "date": "2026-09-20",
-      "families": [
-        "桌面系统",
-        "视觉创意",
-        "网络隐私"
-      ]
-    },
     {
       "date": "2026-09-21",
       "families": [
@@ -69,6 +64,14 @@
         "影音图片",
         "桌面系统",
         "手机浏览器"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "families": [
+        "AI",
+        "桌面系统",
+        "视觉创意"
       ]
     }
   ]
