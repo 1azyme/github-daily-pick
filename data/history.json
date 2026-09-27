@@ -23,17 +23,12 @@
     "mvt-project/mvt": "2026-09-25",
     "shy3130/tick-stock-panel": "2026-09-26",
     "super-productivity/super-productivity": "2026-09-26",
-    "chubin/wttr.in": "2026-09-26"
+    "chubin/wttr.in": "2026-09-26",
+    "usememos/memos": "2026-09-27",
+    "paperless-ngx/paperless-ngx": "2026-09-27",
+    "paperclipai/paperclip": "2026-09-27"
   },
   "recent": [
-    {
-      "date": "2026-09-21",
-      "families": [
-        "命令行",
-        "AI",
-        "效率工具"
-      ]
-    },
     {
       "date": "2026-09-22",
       "families": [
@@ -72,6 +67,14 @@
         "AI",
         "桌面系统",
         "视觉创意"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "families": [
+        "效率工具",
+        "AI",
+        "其他"
       ]
     }
   ]
