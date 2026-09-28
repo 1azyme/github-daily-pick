@@ -26,17 +26,12 @@
     "chubin/wttr.in": "2026-09-26",
     "usememos/memos": "2026-09-27",
     "paperless-ngx/paperless-ngx": "2026-09-27",
-    "paperclipai/paperclip": "2026-09-27"
+    "paperclipai/paperclip": "2026-09-27",
+    "debpalash/VoiceStudio": "2026-09-28",
+    "esengine/DeepSeek-Reasonix": "2026-09-28",
+    "TeamNewPipe/NewPipe": "2026-09-28"
   },
   "recent": [
-    {
-      "date": "2026-09-22",
-      "families": [
-        "手机浏览器",
-        "自建家庭",
-        "影音图片"
-      ]
-    },
     {
       "date": "2026-09-23",
       "families": [
@@ -75,6 +70,14 @@
         "效率工具",
         "AI",
         "其他"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "families": [
+        "AI",
+        "命令行",
+        "手机浏览器"
       ]
     }
   ]
