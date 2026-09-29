@@ -29,17 +29,12 @@
     "paperclipai/paperclip": "2026-09-27",
     "debpalash/VoiceStudio": "2026-09-28",
     "esengine/DeepSeek-Reasonix": "2026-09-28",
-    "TeamNewPipe/NewPipe": "2026-09-28"
+    "TeamNewPipe/NewPipe": "2026-09-28",
+    "pixijs/pixijs": "2026-09-29",
+    "unslothai/unsloth": "2026-09-29",
+    "stablyai/orca": "2026-09-29"
   },
   "recent": [
-    {
-      "date": "2026-09-23",
-      "families": [
-        "AI",
-        "桌面系统",
-        "效率工具"
-      ]
-    },
     {
       "date": "2026-09-24",
       "families": [
@@ -78,6 +73,14 @@
         "AI",
         "命令行",
         "手机浏览器"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "families": [
+        "视觉创意",
+        "AI",
+        "命令行"
       ]
     }
   ]
