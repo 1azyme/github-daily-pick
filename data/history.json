@@ -32,17 +32,12 @@
     "TeamNewPipe/NewPipe": "2026-09-28",
     "pixijs/pixijs": "2026-09-29",
     "unslothai/unsloth": "2026-09-29",
-    "stablyai/orca": "2026-09-29"
+    "stablyai/orca": "2026-09-29",
+    "headroomlabs-ai/headroom": "2026-09-30",
+    "invoke-ai/InvokeAI": "2026-09-30",
+    "mifi/lossless-cut": "2026-09-30"
   },
   "recent": [
-    {
-      "date": "2026-09-24",
-      "families": [
-        "视觉创意",
-        "自建家庭",
-        "其他"
-      ]
-    },
     {
       "date": "2026-09-25",
       "families": [
@@ -81,6 +76,14 @@
         "视觉创意",
         "AI",
         "命令行"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "families": [
+        "AI",
+        "桌面系统",
+        "影音图片"
       ]
     }
   ]
