@@ -35,17 +35,12 @@
     "stablyai/orca": "2026-09-29",
     "headroomlabs-ai/headroom": "2026-09-30",
     "invoke-ai/InvokeAI": "2026-09-30",
-    "mifi/lossless-cut": "2026-09-30"
+    "mifi/lossless-cut": "2026-09-30",
+    "immersive-translate/immersive-translate": "2026-10-01",
+    "harry0703/MoneyPrinterTurbo": "2026-10-01",
+    "hwdsl2/docker-ipsec-vpn-server": "2026-10-01"
   },
   "recent": [
-    {
-      "date": "2026-09-25",
-      "families": [
-        "影音图片",
-        "桌面系统",
-        "手机浏览器"
-      ]
-    },
     {
       "date": "2026-09-26",
       "families": [
@@ -84,6 +79,14 @@
         "AI",
         "桌面系统",
         "影音图片"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "families": [
+        "手机浏览器",
+        "AI",
+        "自建家庭"
       ]
     }
   ]
