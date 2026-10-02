@@ -38,17 +38,12 @@
     "mifi/lossless-cut": "2026-09-30",
     "immersive-translate/immersive-translate": "2026-10-01",
     "harry0703/MoneyPrinterTurbo": "2026-10-01",
-    "hwdsl2/docker-ipsec-vpn-server": "2026-10-01"
+    "hwdsl2/docker-ipsec-vpn-server": "2026-10-01",
+    "pmndrs/react-three-fiber": "2026-10-02",
+    "community-scripts/ProxmoxVE": "2026-10-02",
+    "FyroxEngine/Fyrox": "2026-10-02"
   },
   "recent": [
-    {
-      "date": "2026-09-26",
-      "families": [
-        "AI",
-        "桌面系统",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-09-27",
       "families": [
@@ -87,6 +82,14 @@
         "手机浏览器",
         "AI",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "families": [
+        "视觉创意",
+        "自建家庭",
+        "游戏"
       ]
     }
   ]
