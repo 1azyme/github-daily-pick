@@ -41,17 +41,12 @@
     "hwdsl2/docker-ipsec-vpn-server": "2026-10-01",
     "pmndrs/react-three-fiber": "2026-10-02",
     "community-scripts/ProxmoxVE": "2026-10-02",
-    "FyroxEngine/Fyrox": "2026-10-02"
+    "FyroxEngine/Fyrox": "2026-10-02",
+    "2dust/v2rayNG": "2026-10-03",
+    "JuliusBrussee/caveman": "2026-10-03",
+    "Panniantong/Agent-Reach": "2026-10-03"
   },
   "recent": [
-    {
-      "date": "2026-09-27",
-      "families": [
-        "效率工具",
-        "AI",
-        "其他"
-      ]
-    },
     {
       "date": "2026-09-28",
       "families": [
@@ -90,6 +85,14 @@
         "视觉创意",
         "自建家庭",
         "游戏"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "families": [
+        "网络隐私",
+        "AI",
+        "效率工具"
       ]
     }
   ]
