@@ -44,17 +44,12 @@
     "FyroxEngine/Fyrox": "2026-10-02",
     "2dust/v2rayNG": "2026-10-03",
     "JuliusBrussee/caveman": "2026-10-03",
-    "Panniantong/Agent-Reach": "2026-10-03"
+    "Panniantong/Agent-Reach": "2026-10-03",
+    "webadderallorg/Recordly": "2026-10-04",
+    "janhq/jan": "2026-10-04",
+    "Tyrrrz/YoutubeDownloader": "2026-10-04"
   },
   "recent": [
-    {
-      "date": "2026-09-28",
-      "families": [
-        "AI",
-        "命令行",
-        "手机浏览器"
-      ]
-    },
     {
       "date": "2026-09-29",
       "families": [
@@ -93,6 +88,14 @@
         "网络隐私",
         "AI",
         "效率工具"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "families": [
+        "桌面系统",
+        "AI",
+        "影音图片"
       ]
     }
   ]
