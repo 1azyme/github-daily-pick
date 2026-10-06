@@ -50,17 +50,12 @@
     "Tyrrrz/YoutubeDownloader": "2026-10-04",
     "calesthio/OpenMontage": "2026-10-05",
     "mapbox/mapbox-gl-js": "2026-10-05",
-    "snapotter-hq/SnapOtter": "2026-10-05"
+    "snapotter-hq/SnapOtter": "2026-10-05",
+    "mem0ai/mem0": "2026-10-06",
+    "IceWhaleTech/CasaOS": "2026-10-06",
+    "team-spotube/spotube": "2026-10-06"
   },
   "recent": [
-    {
-      "date": "2026-09-30",
-      "families": [
-        "AI",
-        "桌面系统",
-        "影音图片"
-      ]
-    },
     {
       "date": "2026-10-01",
       "families": [
@@ -99,6 +94,14 @@
         "AI",
         "视觉创意",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "families": [
+        "AI",
+        "自建家庭",
+        "桌面系统"
       ]
     }
   ]
