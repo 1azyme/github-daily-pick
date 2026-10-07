@@ -53,17 +53,12 @@
     "snapotter-hq/SnapOtter": "2026-10-05",
     "mem0ai/mem0": "2026-10-06",
     "IceWhaleTech/CasaOS": "2026-10-06",
-    "team-spotube/spotube": "2026-10-06"
+    "team-spotube/spotube": "2026-10-06",
+    "code-yeongyu/oh-my-openagent": "2026-10-07",
+    "alyssaxuu/screenity": "2026-10-07",
+    "agalwood/Motrix": "2026-10-07"
   },
   "recent": [
-    {
-      "date": "2026-10-01",
-      "families": [
-        "手机浏览器",
-        "AI",
-        "自建家庭"
-      ]
-    },
     {
       "date": "2026-10-02",
       "families": [
@@ -101,6 +96,14 @@
       "families": [
         "AI",
         "自建家庭",
+        "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "families": [
+        "AI",
+        "影音图片",
         "桌面系统"
       ]
     }
