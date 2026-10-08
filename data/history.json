@@ -56,17 +56,12 @@
     "team-spotube/spotube": "2026-10-06",
     "code-yeongyu/oh-my-openagent": "2026-10-07",
     "alyssaxuu/screenity": "2026-10-07",
-    "agalwood/Motrix": "2026-10-07"
+    "agalwood/Motrix": "2026-10-07",
+    "manaflow-ai/cmux": "2026-10-08",
+    "photoprism/photoprism": "2026-10-08",
+    "cathrynlavery/diagram-design": "2026-10-08"
   },
   "recent": [
-    {
-      "date": "2026-10-02",
-      "families": [
-        "视觉创意",
-        "自建家庭",
-        "游戏"
-      ]
-    },
     {
       "date": "2026-10-03",
       "families": [
@@ -105,6 +100,14 @@
         "AI",
         "影音图片",
         "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "families": [
+        "命令行",
+        "AI",
+        "视觉创意"
       ]
     }
   ]
