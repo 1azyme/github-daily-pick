@@ -59,17 +59,12 @@
     "agalwood/Motrix": "2026-10-07",
     "manaflow-ai/cmux": "2026-10-08",
     "photoprism/photoprism": "2026-10-08",
-    "cathrynlavery/diagram-design": "2026-10-08"
+    "cathrynlavery/diagram-design": "2026-10-08",
+    "ente/ente": "2026-10-09",
+    "siyuan-note/siyuan": "2026-10-09",
+    "Provenance-Emu/Provenance": "2026-10-09"
   },
   "recent": [
-    {
-      "date": "2026-10-03",
-      "families": [
-        "网络隐私",
-        "AI",
-        "效率工具"
-      ]
-    },
     {
       "date": "2026-10-04",
       "families": [
@@ -108,6 +103,14 @@
         "命令行",
         "AI",
         "视觉创意"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "families": [
+        "手机浏览器",
+        "效率工具",
+        "游戏"
       ]
     }
   ]
