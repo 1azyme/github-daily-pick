@@ -62,17 +62,12 @@
     "cathrynlavery/diagram-design": "2026-10-08",
     "ente/ente": "2026-10-09",
     "siyuan-note/siyuan": "2026-10-09",
-    "Provenance-Emu/Provenance": "2026-10-09"
+    "Provenance-Emu/Provenance": "2026-10-09",
+    "rustdesk/rustdesk": "2026-10-10",
+    "heygen-com/hyperframes": "2026-10-10",
+    "morluto/rea": "2026-10-10"
   },
   "recent": [
-    {
-      "date": "2026-10-04",
-      "families": [
-        "桌面系统",
-        "AI",
-        "影音图片"
-      ]
-    },
     {
       "date": "2026-10-05",
       "families": [
@@ -111,6 +106,14 @@
         "手机浏览器",
         "效率工具",
         "游戏"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "families": [
+        "桌面系统",
+        "影音图片",
+        "AI"
       ]
     }
   ]
