@@ -65,17 +65,12 @@
     "Provenance-Emu/Provenance": "2026-10-09",
     "rustdesk/rustdesk": "2026-10-10",
     "heygen-com/hyperframes": "2026-10-10",
-    "morluto/rea": "2026-10-10"
+    "morluto/rea": "2026-10-10",
+    "pascalorg/editor": "2026-10-11",
+    "getumbrel/umbrel": "2026-10-11",
+    "qax-os/excelize": "2026-10-11"
   },
   "recent": [
-    {
-      "date": "2026-10-05",
-      "families": [
-        "AI",
-        "视觉创意",
-        "自建家庭"
-      ]
-    },
     {
       "date": "2026-10-06",
       "families": [
@@ -113,6 +108,14 @@
       "families": [
         "桌面系统",
         "影音图片",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "families": [
+        "视觉创意",
+        "自建家庭",
         "AI"
       ]
     }
