@@ -68,17 +68,12 @@
     "morluto/rea": "2026-10-10",
     "pascalorg/editor": "2026-10-11",
     "getumbrel/umbrel": "2026-10-11",
-    "qax-os/excelize": "2026-10-11"
+    "qax-os/excelize": "2026-10-11",
+    "microsoft/fluentui-system-icons": "2026-10-12",
+    "ratatui/ratatui": "2026-10-12",
+    "GyulyVGC/sniffnet": "2026-10-12"
   },
   "recent": [
-    {
-      "date": "2026-10-06",
-      "families": [
-        "AI",
-        "自建家庭",
-        "桌面系统"
-      ]
-    },
     {
       "date": "2026-10-07",
       "families": [
@@ -117,6 +112,14 @@
         "视觉创意",
         "自建家庭",
         "AI"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "families": [
+        "手机浏览器",
+        "命令行",
+        "桌面系统"
       ]
     }
   ]
