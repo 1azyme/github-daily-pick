@@ -71,17 +71,12 @@
     "qax-os/excelize": "2026-10-11",
     "microsoft/fluentui-system-icons": "2026-10-12",
     "ratatui/ratatui": "2026-10-12",
-    "GyulyVGC/sniffnet": "2026-10-12"
+    "GyulyVGC/sniffnet": "2026-10-12",
+    "tanujnotes/Olauncher": "2026-10-13",
+    "spinabot/brigade": "2026-10-13",
+    "HyNetworks/hysteria": "2026-10-13"
   },
   "recent": [
-    {
-      "date": "2026-10-07",
-      "families": [
-        "AI",
-        "影音图片",
-        "桌面系统"
-      ]
-    },
     {
       "date": "2026-10-08",
       "families": [
@@ -120,6 +115,14 @@
         "手机浏览器",
         "命令行",
         "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "families": [
+        "效率工具",
+        "AI",
+        "网络隐私"
       ]
     }
   ]
