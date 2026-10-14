@@ -74,17 +74,12 @@
     "GyulyVGC/sniffnet": "2026-10-12",
     "tanujnotes/Olauncher": "2026-10-13",
     "spinabot/brigade": "2026-10-13",
-    "HyNetworks/hysteria": "2026-10-13"
+    "HyNetworks/hysteria": "2026-10-13",
+    "DuarteSantos8/openGym": "2026-10-14",
+    "vercel-labs/skills": "2026-10-14",
+    "MengTo/threeui": "2026-10-14"
   },
   "recent": [
-    {
-      "date": "2026-10-08",
-      "families": [
-        "命令行",
-        "AI",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-10-09",
       "families": [
@@ -123,6 +118,14 @@
         "效率工具",
         "AI",
         "网络隐私"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "families": [
+        "自建家庭",
+        "其他",
+        "视觉创意"
       ]
     }
   ]
