@@ -77,17 +77,12 @@
     "HyNetworks/hysteria": "2026-10-13",
     "DuarteSantos8/openGym": "2026-10-14",
     "vercel-labs/skills": "2026-10-14",
-    "MengTo/threeui": "2026-10-14"
+    "MengTo/threeui": "2026-10-14",
+    "dailydotdev/daily": "2026-10-15",
+    "lightningpixel/modly": "2026-10-15",
+    "Anuken/Mindustry": "2026-10-15"
   },
   "recent": [
-    {
-      "date": "2026-10-09",
-      "families": [
-        "手机浏览器",
-        "效率工具",
-        "游戏"
-      ]
-    },
     {
       "date": "2026-10-10",
       "families": [
@@ -126,6 +121,14 @@
         "自建家庭",
         "其他",
         "视觉创意"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "families": [
+        "手机浏览器",
+        "视觉创意",
+        "游戏"
       ]
     }
   ]
