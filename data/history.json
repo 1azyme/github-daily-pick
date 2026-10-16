@@ -80,17 +80,12 @@
     "MengTo/threeui": "2026-10-14",
     "dailydotdev/daily": "2026-10-15",
     "lightningpixel/modly": "2026-10-15",
-    "Anuken/Mindustry": "2026-10-15"
+    "Anuken/Mindustry": "2026-10-15",
+    "leon-ai/leon": "2026-10-16",
+    "ImranR98/Obtainium": "2026-10-16",
+    "firefly-iii/firefly-iii": "2026-10-16"
   },
   "recent": [
-    {
-      "date": "2026-10-10",
-      "families": [
-        "桌面系统",
-        "影音图片",
-        "AI"
-      ]
-    },
     {
       "date": "2026-10-11",
       "families": [
@@ -129,6 +124,14 @@
         "手机浏览器",
         "视觉创意",
         "游戏"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "families": [
+        "AI",
+        "网络隐私",
+        "桌面系统"
       ]
     }
   ]
