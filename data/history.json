@@ -83,17 +83,12 @@
     "Anuken/Mindustry": "2026-10-15",
     "leon-ai/leon": "2026-10-16",
     "ImranR98/Obtainium": "2026-10-16",
-    "firefly-iii/firefly-iii": "2026-10-16"
+    "firefly-iii/firefly-iii": "2026-10-16",
+    "Termix-SSH/Termix": "2026-10-17",
+    "AgriciDaniel/claude-obsidian": "2026-10-17",
+    "rowboatlabs/rowboat": "2026-10-17"
   },
   "recent": [
-    {
-      "date": "2026-10-11",
-      "families": [
-        "视觉创意",
-        "自建家庭",
-        "AI"
-      ]
-    },
     {
       "date": "2026-10-12",
       "families": [
@@ -132,6 +127,14 @@
         "AI",
         "网络隐私",
         "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "families": [
+        "自建家庭",
+        "效率工具",
+        "AI"
       ]
     }
   ]
