@@ -89,17 +89,12 @@
     "rowboatlabs/rowboat": "2026-10-17",
     "qier222/YesPlayMusic": "2026-10-18",
     "DIYgod/RSSHub-Radar": "2026-10-18",
-    "Skyvern-AI/skyvern": "2026-10-18"
+    "Skyvern-AI/skyvern": "2026-10-18",
+    "crmne/spotifast": "2026-10-19",
+    "HKUDS/CLI-Anything": "2026-10-19",
+    "guillaumemeyer/watermarks-remover": "2026-10-19"
   },
   "recent": [
-    {
-      "date": "2026-10-13",
-      "families": [
-        "效率工具",
-        "AI",
-        "网络隐私"
-      ]
-    },
     {
       "date": "2026-10-14",
       "families": [
@@ -137,6 +132,14 @@
       "families": [
         "桌面系统",
         "手机浏览器",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "families": [
+        "桌面系统",
+        "其他",
         "AI"
       ]
     }
