@@ -92,17 +92,12 @@
     "Skyvern-AI/skyvern": "2026-10-18",
     "crmne/spotifast": "2026-10-19",
     "HKUDS/CLI-Anything": "2026-10-19",
-    "guillaumemeyer/watermarks-remover": "2026-10-19"
+    "guillaumemeyer/watermarks-remover": "2026-10-19",
+    "continuedev/continue": "2026-10-20",
+    "rommapp/romm": "2026-10-20",
+    "deniscerri/ytdlnis": "2026-10-20"
   },
   "recent": [
-    {
-      "date": "2026-10-14",
-      "families": [
-        "自建家庭",
-        "其他",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-10-15",
       "families": [
@@ -141,6 +136,14 @@
         "桌面系统",
         "其他",
         "AI"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "families": [
+        "AI",
+        "游戏",
+        "影音图片"
       ]
     }
   ]
