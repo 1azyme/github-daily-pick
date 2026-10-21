@@ -95,17 +95,12 @@
     "guillaumemeyer/watermarks-remover": "2026-10-19",
     "continuedev/continue": "2026-10-20",
     "rommapp/romm": "2026-10-20",
-    "deniscerri/ytdlnis": "2026-10-20"
+    "deniscerri/ytdlnis": "2026-10-20",
+    "Gathin23/cleanyourtv": "2026-10-21",
+    "coleam00/Archon": "2026-10-21",
+    "Predidit/Kazumi": "2026-10-21"
   },
   "recent": [
-    {
-      "date": "2026-10-15",
-      "families": [
-        "手机浏览器",
-        "视觉创意",
-        "游戏"
-      ]
-    },
     {
       "date": "2026-10-16",
       "families": [
@@ -144,6 +139,14 @@
         "AI",
         "游戏",
         "影音图片"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "families": [
+        "网络隐私",
+        "AI",
+        "桌面系统"
       ]
     }
   ]
