@@ -101,17 +101,12 @@
     "Predidit/Kazumi": "2026-10-21",
     "OpenBMB/VoxCPM": "2026-10-22",
     "lvgl/lvgl": "2026-10-22",
-    "hanydd/BilibiliSponsorBlock": "2026-10-22"
+    "hanydd/BilibiliSponsorBlock": "2026-10-22",
+    "tinyhumansai/openhuman": "2026-10-23",
+    "Meloong-Git/PCL": "2026-10-23",
+    "css-doodle/css-doodle": "2026-10-23"
   },
   "recent": [
-    {
-      "date": "2026-10-17",
-      "families": [
-        "自建家庭",
-        "效率工具",
-        "AI"
-      ]
-    },
     {
       "date": "2026-10-18",
       "families": [
@@ -150,6 +145,14 @@
         "AI",
         "自建家庭",
         "手机浏览器"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "families": [
+        "AI",
+        "游戏",
+        "视觉创意"
       ]
     }
   ]
