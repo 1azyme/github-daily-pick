@@ -107,17 +107,12 @@
     "css-doodle/css-doodle": "2026-10-23",
     "nodejs/node": "2026-10-24",
     "AdguardTeam/AdGuardHome": "2026-10-24",
-    "pbek/QOwnNotes": "2026-10-24"
+    "pbek/QOwnNotes": "2026-10-24",
+    "voyager-crew/voyager": "2026-10-25",
+    "modem-dev/hunk": "2026-10-25",
+    "tt-a1i/archify": "2026-10-25"
   },
   "recent": [
-    {
-      "date": "2026-10-19",
-      "families": [
-        "桌面系统",
-        "其他",
-        "AI"
-      ]
-    },
     {
       "date": "2026-10-20",
       "families": [
@@ -156,6 +151,14 @@
         "桌面系统",
         "网络隐私",
         "效率工具"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "families": [
+        "手机浏览器",
+        "命令行",
+        "AI"
       ]
     }
   ]
