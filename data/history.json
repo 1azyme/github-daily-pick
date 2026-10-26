@@ -110,17 +110,12 @@
     "pbek/QOwnNotes": "2026-10-24",
     "voyager-crew/voyager": "2026-10-25",
     "modem-dev/hunk": "2026-10-25",
-    "tt-a1i/archify": "2026-10-25"
+    "tt-a1i/archify": "2026-10-25",
+    "plotly/plotly.js": "2026-10-26",
+    "coollabsio/coolify": "2026-10-26",
+    "makecindy/cindy": "2026-10-26"
   },
   "recent": [
-    {
-      "date": "2026-10-20",
-      "families": [
-        "AI",
-        "游戏",
-        "影音图片"
-      ]
-    },
     {
       "date": "2026-10-21",
       "families": [
@@ -159,6 +154,14 @@
         "手机浏览器",
         "命令行",
         "AI"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "families": [
+        "视觉创意",
+        "自建家庭",
+        "桌面系统"
       ]
     }
   ]
