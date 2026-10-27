@@ -113,17 +113,12 @@
     "tt-a1i/archify": "2026-10-25",
     "plotly/plotly.js": "2026-10-26",
     "coollabsio/coolify": "2026-10-26",
-    "makecindy/cindy": "2026-10-26"
+    "makecindy/cindy": "2026-10-26",
+    "files-community/Files": "2026-10-27",
+    "TauricResearch/TradingAgents": "2026-10-27",
+    "lemomo-ai/lemo-opuscar": "2026-10-27"
   },
   "recent": [
-    {
-      "date": "2026-10-21",
-      "families": [
-        "网络隐私",
-        "AI",
-        "桌面系统"
-      ]
-    },
     {
       "date": "2026-10-22",
       "families": [
@@ -162,6 +157,14 @@
         "视觉创意",
         "自建家庭",
         "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "families": [
+        "效率工具",
+        "AI",
+        "视觉创意"
       ]
     }
   ]
