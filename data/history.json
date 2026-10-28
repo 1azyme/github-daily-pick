@@ -116,17 +116,12 @@
     "makecindy/cindy": "2026-10-26",
     "files-community/Files": "2026-10-27",
     "TauricResearch/TradingAgents": "2026-10-27",
-    "lemomo-ai/lemo-opuscar": "2026-10-27"
+    "lemomo-ai/lemo-opuscar": "2026-10-27",
+    "Nutlope/hallmark": "2026-10-28",
+    "iawia002/lux": "2026-10-28",
+    "codexu/note-gen": "2026-10-28"
   },
   "recent": [
-    {
-      "date": "2026-10-22",
-      "families": [
-        "AI",
-        "自建家庭",
-        "手机浏览器"
-      ]
-    },
     {
       "date": "2026-10-23",
       "families": [
@@ -165,6 +160,14 @@
         "效率工具",
         "AI",
         "视觉创意"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "families": [
+        "其他",
+        "下载实用",
+        "AI"
       ]
     }
   ]
