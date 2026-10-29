@@ -119,17 +119,12 @@
     "lemomo-ai/lemo-opuscar": "2026-10-27",
     "Nutlope/hallmark": "2026-10-28",
     "iawia002/lux": "2026-10-28",
-    "codexu/note-gen": "2026-10-28"
+    "codexu/note-gen": "2026-10-28",
+    "tw93/Pake": "2026-10-29",
+    "hiyouga/LlamaFactory": "2026-10-29",
+    "Johnshall/Shadowrocket-ADBlock-Rules-Forever": "2026-10-29"
   },
   "recent": [
-    {
-      "date": "2026-10-23",
-      "families": [
-        "AI",
-        "游戏",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-10-24",
       "families": [
@@ -168,6 +163,14 @@
         "其他",
         "下载实用",
         "AI"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "families": [
+        "桌面系统",
+        "AI",
+        "网络隐私"
       ]
     }
   ]
