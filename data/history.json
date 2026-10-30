@@ -122,17 +122,12 @@
     "codexu/note-gen": "2026-10-28",
     "tw93/Pake": "2026-10-29",
     "hiyouga/LlamaFactory": "2026-10-29",
-    "Johnshall/Shadowrocket-ADBlock-Rules-Forever": "2026-10-29"
+    "Johnshall/Shadowrocket-ADBlock-Rules-Forever": "2026-10-29",
+    "milind-soni/OpenMausBot": "2026-10-30",
+    "yetone/magpie": "2026-10-30",
+    "charmbracelet/vhs": "2026-10-30"
   },
   "recent": [
-    {
-      "date": "2026-10-24",
-      "families": [
-        "桌面系统",
-        "网络隐私",
-        "效率工具"
-      ]
-    },
     {
       "date": "2026-10-25",
       "families": [
@@ -171,6 +166,14 @@
         "桌面系统",
         "AI",
         "网络隐私"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "families": [
+        "自建家庭",
+        "AI",
+        "命令行"
       ]
     }
   ]
