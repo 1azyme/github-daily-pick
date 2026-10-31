@@ -125,17 +125,12 @@
     "Johnshall/Shadowrocket-ADBlock-Rules-Forever": "2026-10-29",
     "milind-soni/OpenMausBot": "2026-10-30",
     "yetone/magpie": "2026-10-30",
-    "charmbracelet/vhs": "2026-10-30"
+    "charmbracelet/vhs": "2026-10-30",
+    "Zackriya-Solutions/meetily": "2026-10-31",
+    "0xCUB3/wBlock": "2026-10-31",
+    "vasturiano/3d-force-graph": "2026-10-31"
   },
   "recent": [
-    {
-      "date": "2026-10-25",
-      "families": [
-        "手机浏览器",
-        "命令行",
-        "AI"
-      ]
-    },
     {
       "date": "2026-10-26",
       "families": [
@@ -174,6 +169,14 @@
         "自建家庭",
         "AI",
         "命令行"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "families": [
+        "AI",
+        "手机浏览器",
+        "视觉创意"
       ]
     }
   ]
