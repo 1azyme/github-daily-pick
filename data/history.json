@@ -128,17 +128,12 @@
     "charmbracelet/vhs": "2026-10-30",
     "Zackriya-Solutions/meetily": "2026-10-31",
     "0xCUB3/wBlock": "2026-10-31",
-    "vasturiano/3d-force-graph": "2026-10-31"
+    "vasturiano/3d-force-graph": "2026-10-31",
+    "Zettlr/Zettlr": "2026-11-01",
+    "ffmpegwasm/ffmpeg.wasm": "2026-11-01",
+    "plotly/dash": "2026-11-01"
   },
   "recent": [
-    {
-      "date": "2026-10-26",
-      "families": [
-        "视觉创意",
-        "自建家庭",
-        "桌面系统"
-      ]
-    },
     {
       "date": "2026-10-27",
       "families": [
@@ -177,6 +172,14 @@
         "AI",
         "手机浏览器",
         "视觉创意"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "families": [
+        "桌面系统",
+        "影音图片",
+        "AI"
       ]
     }
   ]
