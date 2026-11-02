@@ -131,17 +131,12 @@
     "vasturiano/3d-force-graph": "2026-10-31",
     "Zettlr/Zettlr": "2026-11-01",
     "ffmpegwasm/ffmpeg.wasm": "2026-11-01",
-    "plotly/dash": "2026-11-01"
+    "plotly/dash": "2026-11-01",
+    "KunAgent/Kun": "2026-11-02",
+    "beenuar/AiSOC": "2026-11-02",
+    "thedotmack/claude-mem": "2026-11-02"
   },
   "recent": [
-    {
-      "date": "2026-10-27",
-      "families": [
-        "效率工具",
-        "AI",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-10-28",
       "families": [
@@ -179,6 +174,14 @@
       "families": [
         "桌面系统",
         "影音图片",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "families": [
+        "效率工具",
+        "自建家庭",
         "AI"
       ]
     }
