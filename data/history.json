@@ -134,17 +134,12 @@
     "plotly/dash": "2026-11-01",
     "KunAgent/Kun": "2026-11-02",
     "beenuar/AiSOC": "2026-11-02",
-    "thedotmack/claude-mem": "2026-11-02"
+    "thedotmack/claude-mem": "2026-11-02",
+    "vercel-labs/agent-desktop": "2026-11-03",
+    "CesiumGS/cesium": "2026-11-03",
+    "samuelclay/NewsBlur": "2026-11-03"
   },
   "recent": [
-    {
-      "date": "2026-10-28",
-      "families": [
-        "其他",
-        "下载实用",
-        "AI"
-      ]
-    },
     {
       "date": "2026-10-29",
       "families": [
@@ -183,6 +178,14 @@
         "效率工具",
         "自建家庭",
         "AI"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "families": [
+        "效率工具",
+        "视觉创意",
+        "手机浏览器"
       ]
     }
   ]
