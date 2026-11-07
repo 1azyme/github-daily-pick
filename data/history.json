@@ -146,17 +146,12 @@
     "kylecorry31/Trail-Sense": "2026-11-05",
     "mpv-player/mpv": "2026-11-06",
     "Yeachan-Heo/oh-my-claudecode": "2026-11-06",
-    "navidrome/navidrome": "2026-11-06"
+    "navidrome/navidrome": "2026-11-06",
+    "NickvisionApps/Parabolic": "2026-11-07",
+    "wiltodelta/remove-ai-watermarks": "2026-11-07",
+    "0xERR0R/blocky": "2026-11-07"
   },
   "recent": [
-    {
-      "date": "2026-11-01",
-      "families": [
-        "桌面系统",
-        "影音图片",
-        "AI"
-      ]
-    },
     {
       "date": "2026-11-02",
       "families": [
@@ -195,6 +190,14 @@
         "影音图片",
         "效率工具",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "families": [
+        "桌面系统",
+        "AI",
+        "网络隐私"
       ]
     }
   ]
