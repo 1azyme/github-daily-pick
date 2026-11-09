@@ -152,17 +152,12 @@
     "0xERR0R/blocky": "2026-11-07",
     "KKKKhazix/AIHOT": "2026-11-08",
     "vercel-labs/agent-browser": "2026-11-08",
-    "jxlarrea/kiosk-satellite": "2026-11-08"
+    "jxlarrea/kiosk-satellite": "2026-11-08",
+    "Lake1059/FFmpegFreeUI": "2026-11-09",
+    "amir1376/ab-download-manager": "2026-11-09",
+    "jrnl-org/jrnl": "2026-11-09"
   },
   "recent": [
-    {
-      "date": "2026-11-03",
-      "families": [
-        "效率工具",
-        "视觉创意",
-        "手机浏览器"
-      ]
-    },
     {
       "date": "2026-11-04",
       "families": [
@@ -201,6 +196,14 @@
         "AI",
         "其他",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "families": [
+        "影音图片",
+        "桌面系统",
+        "效率工具"
       ]
     }
   ]
