@@ -155,17 +155,12 @@
     "jxlarrea/kiosk-satellite": "2026-11-08",
     "Lake1059/FFmpegFreeUI": "2026-11-09",
     "amir1376/ab-download-manager": "2026-11-09",
-    "jrnl-org/jrnl": "2026-11-09"
+    "jrnl-org/jrnl": "2026-11-09",
+    "ZhuLinsen/daily_stock_analysis": "2026-11-10",
+    "ruvnet/RuView": "2026-11-10",
+    "ComicSparks/pikapika": "2026-11-10"
   },
   "recent": [
-    {
-      "date": "2026-11-04",
-      "families": [
-        "网络隐私",
-        "桌面系统",
-        "其他"
-      ]
-    },
     {
       "date": "2026-11-05",
       "families": [
@@ -204,6 +199,14 @@
         "影音图片",
         "桌面系统",
         "效率工具"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "families": [
+        "AI",
+        "自建家庭",
+        "手机浏览器"
       ]
     }
   ]
