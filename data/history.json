@@ -158,17 +158,12 @@
     "jrnl-org/jrnl": "2026-11-09",
     "ZhuLinsen/daily_stock_analysis": "2026-11-10",
     "ruvnet/RuView": "2026-11-10",
-    "ComicSparks/pikapika": "2026-11-10"
+    "ComicSparks/pikapika": "2026-11-10",
+    "homeassistant-ai/ha-mcp": "2026-11-11",
+    "d3/d3": "2026-11-11",
+    "addyosmani/agent-skills": "2026-11-11"
   },
   "recent": [
-    {
-      "date": "2026-11-05",
-      "families": [
-        "AI",
-        "自建家庭",
-        "生活数据"
-      ]
-    },
     {
       "date": "2026-11-06",
       "families": [
@@ -207,6 +202,14 @@
         "AI",
         "自建家庭",
         "手机浏览器"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "families": [
+        "AI",
+        "视觉创意",
+        "其他"
       ]
     }
   ]
