@@ -161,17 +161,12 @@
     "ComicSparks/pikapika": "2026-11-10",
     "homeassistant-ai/ha-mcp": "2026-11-11",
     "d3/d3": "2026-11-11",
-    "addyosmani/agent-skills": "2026-11-11"
+    "addyosmani/agent-skills": "2026-11-11",
+    "marktext/marktext": "2026-11-12",
+    "ArchiveBox/ArchiveBox": "2026-11-12",
+    "srizzon/git-city": "2026-11-12"
   },
   "recent": [
-    {
-      "date": "2026-11-06",
-      "families": [
-        "影音图片",
-        "效率工具",
-        "自建家庭"
-      ]
-    },
     {
       "date": "2026-11-07",
       "families": [
@@ -210,6 +205,14 @@
         "AI",
         "视觉创意",
         "其他"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "families": [
+        "桌面系统",
+        "效率工具",
+        "视觉创意"
       ]
     }
   ]
