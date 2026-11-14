@@ -167,17 +167,12 @@
     "srizzon/git-city": "2026-11-12",
     "can1357/oh-my-pi": "2026-11-13",
     "hslr-s/sun-panel": "2026-11-13",
-    "CarGuo/GSYVideoPlayer": "2026-11-13"
+    "CarGuo/GSYVideoPlayer": "2026-11-13",
+    "sansan0/TrendRadar": "2026-11-14",
+    "ChromeDevTools/chrome-devtools-mcp": "2026-11-14",
+    "Pouzor/homelable": "2026-11-14"
   },
   "recent": [
-    {
-      "date": "2026-11-08",
-      "families": [
-        "AI",
-        "其他",
-        "自建家庭"
-      ]
-    },
     {
       "date": "2026-11-09",
       "families": [
@@ -216,6 +211,14 @@
         "命令行",
         "自建家庭",
         "影音图片"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "families": [
+        "AI",
+        "其他",
+        "自建家庭"
       ]
     }
   ]
