@@ -170,17 +170,12 @@
     "CarGuo/GSYVideoPlayer": "2026-11-13",
     "sansan0/TrendRadar": "2026-11-14",
     "ChromeDevTools/chrome-devtools-mcp": "2026-11-14",
-    "Pouzor/homelable": "2026-11-14"
+    "Pouzor/homelable": "2026-11-14",
+    "QwenLM/qwen-code": "2026-11-15",
+    "waligoraamodio288-rgb/hongguo-desktop-releases": "2026-11-15",
+    "isl-org/Open3D": "2026-11-15"
   },
   "recent": [
-    {
-      "date": "2026-11-09",
-      "families": [
-        "影音图片",
-        "桌面系统",
-        "效率工具"
-      ]
-    },
     {
       "date": "2026-11-10",
       "families": [
@@ -219,6 +214,14 @@
         "AI",
         "其他",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "families": [
+        "AI",
+        "桌面系统",
+        "视觉创意"
       ]
     }
   ]
