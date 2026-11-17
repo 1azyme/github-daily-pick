@@ -176,17 +176,12 @@
     "isl-org/Open3D": "2026-11-15",
     "simple-icons/simple-icons": "2026-11-16",
     "dlvhdr/gh-dash": "2026-11-16",
-    "JoeanAmier/XHS-Downloader": "2026-11-16"
+    "JoeanAmier/XHS-Downloader": "2026-11-16",
+    "getarcaneapp/arcane": "2026-11-17",
+    "backnotprop/plannotator": "2026-11-17",
+    "apache/echarts": "2026-11-17"
   },
   "recent": [
-    {
-      "date": "2026-11-11",
-      "families": [
-        "AI",
-        "视觉创意",
-        "其他"
-      ]
-    },
     {
       "date": "2026-11-12",
       "families": [
@@ -225,6 +220,14 @@
         "影音图片",
         "命令行",
         "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "families": [
+        "自建家庭",
+        "效率工具",
+        "视觉创意"
       ]
     }
   ]
