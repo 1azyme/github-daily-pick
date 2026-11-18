@@ -179,17 +179,12 @@
     "JoeanAmier/XHS-Downloader": "2026-11-16",
     "getarcaneapp/arcane": "2026-11-17",
     "backnotprop/plannotator": "2026-11-17",
-    "apache/echarts": "2026-11-17"
+    "apache/echarts": "2026-11-17",
+    "blakeblackshear/frigate": "2026-11-18",
+    "pyload/pyload": "2026-11-18",
+    "storytold/photocraft": "2026-11-18"
   },
   "recent": [
-    {
-      "date": "2026-11-12",
-      "families": [
-        "桌面系统",
-        "效率工具",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-11-13",
       "families": [
@@ -228,6 +223,14 @@
         "自建家庭",
         "效率工具",
         "视觉创意"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "families": [
+        "AI",
+        "下载实用",
+        "其他"
       ]
     }
   ]
