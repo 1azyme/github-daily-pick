@@ -182,17 +182,12 @@
     "apache/echarts": "2026-11-17",
     "blakeblackshear/frigate": "2026-11-18",
     "pyload/pyload": "2026-11-18",
-    "storytold/photocraft": "2026-11-18"
+    "storytold/photocraft": "2026-11-18",
+    "OpenMontageInc/OpenMontage": "2026-11-19",
+    "appwrite/appwrite": "2026-11-19",
+    "IAmStoxe/wirehole": "2026-11-19"
   },
   "recent": [
-    {
-      "date": "2026-11-13",
-      "families": [
-        "命令行",
-        "自建家庭",
-        "影音图片"
-      ]
-    },
     {
       "date": "2026-11-14",
       "families": [
@@ -231,6 +226,14 @@
         "AI",
         "下载实用",
         "其他"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "families": [
+        "AI",
+        "手机浏览器",
+        "网络隐私"
       ]
     }
   ]
