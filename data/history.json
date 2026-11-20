@@ -185,17 +185,12 @@
     "storytold/photocraft": "2026-11-18",
     "OpenMontageInc/OpenMontage": "2026-11-19",
     "appwrite/appwrite": "2026-11-19",
-    "IAmStoxe/wirehole": "2026-11-19"
+    "IAmStoxe/wirehole": "2026-11-19",
+    "toeverything/AFFiNE": "2026-11-20",
+    "bitwarden/clients": "2026-11-20",
+    "peach-mitao/peach": "2026-11-20"
   },
   "recent": [
-    {
-      "date": "2026-11-14",
-      "families": [
-        "AI",
-        "其他",
-        "自建家庭"
-      ]
-    },
     {
       "date": "2026-11-15",
       "families": [
@@ -234,6 +229,14 @@
         "AI",
         "手机浏览器",
         "网络隐私"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "families": [
+        "效率工具",
+        "桌面系统",
+        "自建家庭"
       ]
     }
   ]
