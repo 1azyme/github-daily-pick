@@ -188,17 +188,12 @@
     "IAmStoxe/wirehole": "2026-11-19",
     "toeverything/AFFiNE": "2026-11-20",
     "bitwarden/clients": "2026-11-20",
-    "peach-mitao/peach": "2026-11-20"
+    "peach-mitao/peach": "2026-11-20",
+    "plotly/plotly.py": "2026-11-21",
+    "Abdess/retrobios": "2026-11-21",
+    "jingyaogong/minimind": "2026-11-21"
   },
   "recent": [
-    {
-      "date": "2026-11-15",
-      "families": [
-        "AI",
-        "桌面系统",
-        "视觉创意"
-      ]
-    },
     {
       "date": "2026-11-16",
       "families": [
@@ -237,6 +232,14 @@
         "效率工具",
         "桌面系统",
         "自建家庭"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "families": [
+        "视觉创意",
+        "游戏",
+        "其他"
       ]
     }
   ]
