@@ -191,17 +191,12 @@
     "peach-mitao/peach": "2026-11-20",
     "plotly/plotly.py": "2026-11-21",
     "Abdess/retrobios": "2026-11-21",
-    "jingyaogong/minimind": "2026-11-21"
+    "jingyaogong/minimind": "2026-11-21",
+    "codewhale-hq/Codewhale": "2026-11-22",
+    "ifixai-ai/iFixAi": "2026-11-22",
+    "mjmirza/app-store-compliance": "2026-11-22"
   },
   "recent": [
-    {
-      "date": "2026-11-16",
-      "families": [
-        "影音图片",
-        "命令行",
-        "桌面系统"
-      ]
-    },
     {
       "date": "2026-11-17",
       "families": [
@@ -240,6 +235,14 @@
         "视觉创意",
         "游戏",
         "其他"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "families": [
+        "命令行",
+        "AI",
+        "手机浏览器"
       ]
     }
   ]
