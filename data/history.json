@@ -197,17 +197,12 @@
     "mjmirza/app-store-compliance": "2026-11-22",
     "op7418/CodePilot": "2026-11-23",
     "mvanhorn/last30days-skill": "2026-11-23",
-    "storytold/lightcraft": "2026-11-23"
+    "storytold/lightcraft": "2026-11-23",
+    "keplergl/kepler.gl": "2026-11-24",
+    "domoticz/domoticz": "2026-11-24",
+    "warpdotdev/warp": "2026-11-24"
   },
   "recent": [
-    {
-      "date": "2026-11-18",
-      "families": [
-        "AI",
-        "下载实用",
-        "其他"
-      ]
-    },
     {
       "date": "2026-11-19",
       "families": [
@@ -246,6 +241,14 @@
         "桌面系统",
         "命令行",
         "影音图片"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "families": [
+        "视觉创意",
+        "自建家庭",
+        "桌面系统"
       ]
     }
   ]
