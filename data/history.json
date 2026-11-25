@@ -200,17 +200,12 @@
     "storytold/lightcraft": "2026-11-23",
     "keplergl/kepler.gl": "2026-11-24",
     "domoticz/domoticz": "2026-11-24",
-    "warpdotdev/warp": "2026-11-24"
+    "warpdotdev/warp": "2026-11-24",
+    "jeecgboot/JeecgBoot": "2026-11-25",
+    "homarr-labs/dashboard-icons": "2026-11-25",
+    "massCodeIO/massCode": "2026-11-25"
   },
   "recent": [
-    {
-      "date": "2026-11-19",
-      "families": [
-        "AI",
-        "手机浏览器",
-        "网络隐私"
-      ]
-    },
     {
       "date": "2026-11-20",
       "families": [
@@ -247,6 +242,14 @@
       "date": "2026-11-24",
       "families": [
         "视觉创意",
+        "自建家庭",
+        "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "families": [
+        "AI",
         "自建家庭",
         "桌面系统"
       ]
