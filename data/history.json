@@ -203,17 +203,12 @@
     "warpdotdev/warp": "2026-11-24",
     "jeecgboot/JeecgBoot": "2026-11-25",
     "homarr-labs/dashboard-icons": "2026-11-25",
-    "massCodeIO/massCode": "2026-11-25"
+    "massCodeIO/massCode": "2026-11-25",
+    "NanmiCoder/cc-haha": "2026-11-26",
+    "jub0t/Concat": "2026-11-26",
+    "elementalsouls/Claude-BugHunter": "2026-11-26"
   },
   "recent": [
-    {
-      "date": "2026-11-20",
-      "families": [
-        "效率工具",
-        "桌面系统",
-        "自建家庭"
-      ]
-    },
     {
       "date": "2026-11-21",
       "families": [
@@ -252,6 +247,14 @@
         "AI",
         "自建家庭",
         "桌面系统"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "families": [
+        "AI",
+        "自建家庭",
+        "其他"
       ]
     }
   ]
