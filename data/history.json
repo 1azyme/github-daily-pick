@@ -206,17 +206,12 @@
     "massCodeIO/massCode": "2026-11-25",
     "NanmiCoder/cc-haha": "2026-11-26",
     "jub0t/Concat": "2026-11-26",
-    "elementalsouls/Claude-BugHunter": "2026-11-26"
+    "elementalsouls/Claude-BugHunter": "2026-11-26",
+    "cookpete/react-player": "2026-11-27",
+    "apexcharts/apexcharts.js": "2026-11-27",
+    "BaaRai/ARTEX": "2026-11-27"
   },
   "recent": [
-    {
-      "date": "2026-11-21",
-      "families": [
-        "视觉创意",
-        "游戏",
-        "其他"
-      ]
-    },
     {
       "date": "2026-11-22",
       "families": [
@@ -255,6 +250,14 @@
         "AI",
         "自建家庭",
         "其他"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "families": [
+        "影音图片",
+        "视觉创意",
+        "AI"
       ]
     }
   ]
