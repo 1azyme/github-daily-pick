@@ -209,17 +209,12 @@
     "elementalsouls/Claude-BugHunter": "2026-11-26",
     "cookpete/react-player": "2026-11-27",
     "apexcharts/apexcharts.js": "2026-11-27",
-    "BaaRai/ARTEX": "2026-11-27"
+    "BaaRai/ARTEX": "2026-11-27",
+    "getmaxun/maxun": "2026-11-28",
+    "mobile-next/mobile-mcp": "2026-11-28",
+    "yousifamanuel/terraink": "2026-11-28"
   },
   "recent": [
-    {
-      "date": "2026-11-22",
-      "families": [
-        "命令行",
-        "AI",
-        "手机浏览器"
-      ]
-    },
     {
       "date": "2026-11-23",
       "families": [
@@ -258,6 +253,14 @@
         "影音图片",
         "视觉创意",
         "AI"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "families": [
+        "效率工具",
+        "手机浏览器",
+        "桌面系统"
       ]
     }
   ]
